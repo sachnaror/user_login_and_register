@@ -1,5 +1,5 @@
 
-# Django Sign Up and login with confirmation Email | Python
+# Django Sign-Up and Log-in with confirmation Email (CI) | Python
 
 Django by default provides an authentication system configuration. User objects are the core of the authentication system. Today we will implement Django’s authentication system.
 
