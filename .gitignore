@@ -3,11 +3,9 @@ README.MD
 *.log
 
 # ignore ALL files in ANY directory named temp
-sasa/
 sasa
 *.cfg
-HeySachin
-HeySachin/
+
 __pycache__/
 .vscode/
 .venv/
